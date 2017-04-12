@@ -15,6 +15,7 @@
 		A2F750541E9E630F00825B3E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2F750521E9E630F00825B3E /* LaunchScreen.storyboard */; };
 		A2F7505F1E9E630F00825B3E /* AVPlayerTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2F7505E1E9E630F00825B3E /* AVPlayerTestTests.swift */; };
 		A2F7506A1E9E630F00825B3E /* AVPlayerTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2F750691E9E630F00825B3E /* AVPlayerTestUITests.swift */; };
+		A2F750781E9E64C500825B3E /* PlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2F750771E9E64C500825B3E /* PlayerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		A2F750651E9E630F00825B3E /* AVPlayerTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AVPlayerTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2F750691E9E630F00825B3E /* AVPlayerTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AVPlayerTestUITests.swift; sourceTree = "<group>"; };
 		A2F7506B1E9E630F00825B3E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A2F750771E9E64C500825B3E /* PlayerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				A2F750521E9E630F00825B3E /* LaunchScreen.storyboard */,
 				A2F750551E9E630F00825B3E /* Info.plist */,
 				A2F7504D1E9E630F00825B3E /* AVPlayerTest.xcdatamodeld */,
+				A2F750771E9E64C500825B3E /* PlayerView.swift */,
 			);
 			path = AVPlayerTest;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				A2F7504F1E9E630F00825B3E /* AVPlayerTest.xcdatamodeld in Sources */,
 				A2F750491E9E630F00825B3E /* ViewController.swift in Sources */,
 				A2F750471E9E630F00825B3E /* AppDelegate.swift in Sources */,
+				A2F750781E9E64C500825B3E /* PlayerView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
