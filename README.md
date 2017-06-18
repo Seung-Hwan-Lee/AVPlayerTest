@@ -2,11 +2,12 @@
 
 
 ## What is Spotlight
- Original search API on macOS 
- Document-centric
-  Search results identify document 
+- Original search API on macOS 
+- Document-centric  
+  Search results identify document  
   Not location in document
- Not ideal for databases
+- Not ideal for databases
+
 
 
 ## What is Core Spotlight
